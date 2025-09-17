@@ -67,5 +67,3 @@ Final predictions use softmax to convert logits to probabilities.
 - **Node.js**: Bun runtime for TUI demo
 
 ---
-
-*Built with Claude Code in about an hour. Sometimes it's fun to ask AI to do something absurd.*

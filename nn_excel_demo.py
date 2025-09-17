@@ -15,7 +15,6 @@ CATEGORIES = [
     ("house", f"{QD_BASE}/house.npy"),
     ("ladder", f"{QD_BASE}/ladder.npy"),
     ("sun", f"{QD_BASE}/sun.npy"),
-    ("tree", f"{QD_BASE}/tree.npy"),
     ("door", f"{QD_BASE}/door.npy"),
 
     
